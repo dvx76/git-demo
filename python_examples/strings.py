@@ -5,3 +5,5 @@
 string_var = "Welkom bij Syntra"
 print(string_var[3:6])
 # output: kom
+print(string_var[11:])
+# output: Syntra
