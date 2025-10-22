@@ -2,4 +2,4 @@
 
 A dummy repo to use during Git courses.
 
-Bob was here
+Alice and Bod were here
