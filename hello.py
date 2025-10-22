@@ -5,3 +5,5 @@ print(message)
 print("New message")
 
 print("Hello too")
+
+print("Yay! Another message!")
