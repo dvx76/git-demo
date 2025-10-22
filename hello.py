@@ -2,5 +2,5 @@
 
 message = "Hello from my first Git repo"
 print(message)
-message = "It's Alice from wonderland."
+message = "Another message"
 print(message)
