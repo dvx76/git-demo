@@ -1,1 +1,1 @@
-"""Voorbeelden: werken met loops."""
+"""Voorbeelden: werken met testloops."""
