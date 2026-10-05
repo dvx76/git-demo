@@ -8,3 +8,4 @@ message2 = "Hello from Syntra"
 print(message2)
 print("hello, ik ben Heidi")
 print("hallo, het is alweer zoe")
+print("hello, ik ben Heidi")
