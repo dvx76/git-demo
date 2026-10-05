@@ -1,6 +1,6 @@
 """A module to say hello"""
 
-message = "Hello from my first Git repo"
+message = "Greetings from Planet Earth"
 print(message)
 
 
