@@ -3,4 +3,5 @@
 message = "Hello from my first Git repo"
 message = "Hello from my first Git repo"
 message = "Hello from syntra avondles"
+message = "Alice was here"
 print(message)
