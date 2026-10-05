@@ -3,3 +3,6 @@
 
 message = "Hello from my first Git repo"
 print(message)
+message = "Hello from my adapted file"
+print(message)
+
