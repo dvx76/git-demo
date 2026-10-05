@@ -7,3 +7,4 @@ print("Hallo ik ben zoe")
 message2 = "Hello from Syntra"
 print(message2)
 print("hey hoi")
+print("hello, ik ben Heidi")
