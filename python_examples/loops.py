@@ -2,3 +2,4 @@
 "Kleine aanpassingen"
 print("Hello Michiel")
 print("hoe gaat het? Michiel :)")
+print("Hallo Natalia")
