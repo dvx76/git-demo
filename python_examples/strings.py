@@ -1,4 +1,7 @@
 """Voorbeelden: werken met strings."""
+"Aanpassing oefening les 4"
+"Aanpassing voor github merge"
+print("Hallo Natilia")
 
 # String "slicen": Met string_var[x:y] krijg je het deel van de string
 # van karakter x t.e.m. karakter y. Het eerste karakter is 0!
